@@ -1,11 +1,12 @@
 ---
 title: About me
-date: 2020-12-29T21:13:19+00:00
+date: 2020-12-29T21:13:19.000+00:00
 background_color: "#B4CEC8"
 contact_info:
   email: lucilesayuri@gmail.com
   instagram_url: https://www.instagram.com/sayululu/?hl=fr
   instagram_handle: sayululu
+  insta_handle: sayululu
 type: ''
 
 ---
