@@ -17,7 +17,7 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: insta_handle
+  - name: instagram_handle
     type: text
     config:
       required: false
