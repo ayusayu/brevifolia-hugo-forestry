@@ -1,4 +1,13 @@
 ---
 label: Gallery Page
 hide_body: false
-fields: []
+fields:
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: gallery
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
