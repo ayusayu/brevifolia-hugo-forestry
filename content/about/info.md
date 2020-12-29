@@ -9,7 +9,6 @@ contact_info:
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
 type: ''
-draft: true
 
 ---
 ## Lucile Gaiffe
