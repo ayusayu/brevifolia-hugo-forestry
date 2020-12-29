@@ -5,9 +5,10 @@ background_color: "#B4CEC8"
 contact_info:
   twitter_handle: forestryio
   github_handle: forestryio
-  email: info@forestry.io
+  email: lucilesayuri@gmail.com
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
+  insta_handle: https://www.instagram.com/sayululu/?hl=fr
 type: ''
 
 ---
@@ -23,4 +24,4 @@ I worked for the artist and graphic designer Komagata Katsumi in Japan and for t
 ２０１５年に桑沢専門学校卒業。
 
 Please feel free to contact me / メールはこちら :  
-lucilesayuri@gmail.com (🇫🇷🇬🇧🇯🇵)
+ (🇫🇷🇬🇧🇯🇵)
