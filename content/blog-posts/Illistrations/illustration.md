@@ -1,7 +1,6 @@
 +++
 author = ""
 date = ""
-draft = true
 hero = "/images/thedefinitionoflove_1691.jpg"
 title = "illustration"
 type = "blog"
